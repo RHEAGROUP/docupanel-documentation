@@ -2,12 +2,10 @@
 
 ## DocuPanel Documentation
 
-* [DocuPanel Documentation](README.md)
+* [Introduction](README.md)
 * [Getting Started](getting-started.md)
 * [How does it work](how-does-it-work.md)
 * [Searches](searches.md)
-
-## Methods
-
-* [Defining Methods](methods.md)
+* [Support](support.md)
+* [License]([License]%28https://github.com/RHEAGROUP/docupanel/blob/master/LICENSE%29)
 
