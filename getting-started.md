@@ -83,19 +83,17 @@ It has to be structured as the following example
 
 The structure of the previous code gives
 
-![](https://github.com/RHEAGROUP/docupanel/blob/master/hierarchy.PNG\ "Image")
+![](/assets/hierarchy.PNG "Image")
 
-**Title**is the title of you documentation. It will appear on the left top corner of the DocuPanel.
+**Title **is the title of you documentation. It will appear on the left top corner of the DocuPanel.
 
-**Author**is the author of the documentation. Can be empty. It is actually not displayed.
+**Author **is the author of the documentation. Can be empty. It is actually not displayed.
 
-**PagePath**is the path of the page. Note that a section does not necessary contains PagePath. For example a section can contain only children pages, it's what happens with\_Installation\_and\_Configuration\_in our example. You can add a main page to your documentation which will appear when a user will click on the top left corner where is written the title of your documentation. To do that you have to write the path of this page in the PagePath located just after the Author.
+**PagePath **is the path of the page. Note that a section does not necessary contains PagePath. For example a section can contain only children pages, it's what happens with\_Installation\_and\_Configuration\_in our example. You can add a main page to your documentation which will appear when a user will click on the top left corner where is written the title of your documentation. To do that you have to write the path of this page in the PagePath located just after the Author.
 
-**Sections**is the list of the subsections. The treeView displayed on the left contains only sections, which are entities of your doc. Sections can be associated to a page or just contains other sections.
+**Sections **is the list of the subsections. The treeView displayed on the left contains only sections, which are entities of your doc. Sections can be associated to a page or just contains other sections.
 
-**Name**is the name displayed for a section in the treeView. It is possible to have two sections with the same name.
-
-
+**Name **is the name displayed for a section in the treeView. It is possible to have two sections with the same name.
 
 ## Sample
 
