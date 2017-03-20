@@ -5,5 +5,5 @@
 * [How does it work](how-does-it-work.md)
 * [Searches](searches.md)
 * [Support](support.md)
-* [License](license.md)
+* [License](https://github.com/RHEAGROUP/docupanel/blob/master/LICENSE)
 
