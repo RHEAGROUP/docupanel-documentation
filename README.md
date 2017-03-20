@@ -2,7 +2,7 @@
 
 A WPF markdown/html Documentation Control with search that can be used to create a help facility in WPF x64 applications. The help pages are written using markdown and the structure of the help file is created using a json document.
 
-You will find a \[sample\]\([https://github.com/RHEAGROUP/docupanel/tree/master/DocuPanelSupport](https://www.gitbook.com/book/rheagroup/docupanel/edit#)\) on the [https://github.com/RHEAGROUP/docupanel\](https://github.com/RHEAGROUP/docupanel\ "main directory")
+You will find a \[sample\]\([https://github.com/RHEAGROUP/docupanel/tree/master/DocuPanelSupport](https://www.gitbook.com/book/rheagroup/docupanel/edit#)\) on the \[main repository\]\([https://github.com/RHEAGROUP/docupanel\](https://github.com/RHEAGROUP/docupanel\ "main directory")\).
 
 You are more than welcome to help us build this documentation. I you have any suggestion don't hesitate to contact us.
 
