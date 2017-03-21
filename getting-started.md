@@ -97,5 +97,5 @@ The structure of the previous code gives
 
 ## Sample
 
-We developed a simple example to show you how it works. The example is a project which only contains a window which includes DocuPanel. The [Documentation](https://github.com/RHEAGROUP/docupanel/tree/master/DocuPanelSupport/Documentation\) folder contains the files that DocuPanel needs to consider. book.json is our index file which contains all the information relative to the documentation. Take a look at the [example](https://github.com/RHEAGROUP/docupanel/tree/master/DocuPanelSupport\).
+We developed a simple example to show you how it works. The example is a project which only contains a window which includes DocuPanel. The [Documentation](https://github.com/RHEAGROUP/docupanel/tree/master/DocuPanelSupport/Documentation) folder contains the files that DocuPanel needs to consider. book.json is our index file which contains all the information relative to the documentation. Take a look at the [example](https://github.com/RHEAGROUP/docupanel/tree/master/DocuPanelSupport).
 
