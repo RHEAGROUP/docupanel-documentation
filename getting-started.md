@@ -22,11 +22,9 @@ DocuPanel is a UserControl that needs to be integrated inside a window or anothe
 PathDocumentationIndex**`string`which corresponds to the path of the index file of your documentation. This file must be a`.json`file and be present at the root of the documentation. This file contains all the hierarchy and other information about your documentation like the author, the title and the path of the pages you want to include.
 
 **RootAppData**`string`which corresponds to the path of the application data folder of your application.
-
 DocuPanel will create on this path a directory called`DocuPanel`to store its datas. All your Markdown files need to be converted into HTML files to be displayed properly, that is why we need a location where store the HTML pages. Besides DocuPanel will also store some files useful for the searches.
 
 **UpdateIndexation**`bool`which indicates whether the indexation needs to be updated.
-
 If true, DocuPanel will browse all the files present in the index, and will convert them into HTML if they don't already exist. The indexation for the searches will also be updated with the new documentation content. Note that if you want to update the content of a file, you have to delete the html file from the application data folder. This property needs to be `true` the first time you use DocuPanel. 
 
 ### Structure of your documentation
